@@ -1,5 +1,7 @@
 # 123-game
 
+The story and solution to a problem which has bothered me for way too long. 
+
 ## Intro
 
 The 123-game is a luck-based card game played by one player. The game starts by shuffling a standard deck of cards. Then, the cards are are lifted onto the table from the top of the pack, while counting from one to three and repeating (1,2,3,1,2,3...). 
